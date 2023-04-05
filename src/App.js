@@ -9,6 +9,7 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <SearchEngine />
+      <h4>https://github.com/anika-jane/weather-react</h4>
     </div>
   );
 }
